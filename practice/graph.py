@@ -63,7 +63,8 @@ class MarineFoodChainGraph(object):
 
         """
         # TODO: Complete this method
-        pass
+        
+        return animal1 in animal2.prey
 
 #####################################################################
 # END OF ASSIGNMENT: You can ignore everything below.
